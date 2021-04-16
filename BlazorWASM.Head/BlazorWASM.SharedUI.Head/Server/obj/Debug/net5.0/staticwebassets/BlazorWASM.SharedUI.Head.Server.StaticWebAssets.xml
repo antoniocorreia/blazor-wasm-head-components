@@ -1,0 +1,8 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Server\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/BlazorWASM.SharedUI" Path="C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI\obj\Debug\netstandard2.1\scopedcss\projectbundle\" />
+  <ContentRoot BasePath="_content/BlazorWASM.SharedUI" Path="C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI\wwwroot\" />
+</StaticWebAssets>

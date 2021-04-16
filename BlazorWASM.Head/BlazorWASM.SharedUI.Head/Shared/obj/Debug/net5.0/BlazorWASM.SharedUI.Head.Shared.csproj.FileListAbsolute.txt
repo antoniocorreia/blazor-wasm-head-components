@@ -1,0 +1,11 @@
+C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Shared\bin\Debug\net5.0\BlazorWASM.SharedUI.Head.Shared.deps.json
+C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Shared\bin\Debug\net5.0\BlazorWASM.SharedUI.Head.Shared.dll
+C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Shared\bin\Debug\net5.0\ref\BlazorWASM.SharedUI.Head.Shared.dll
+C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Shared\bin\Debug\net5.0\BlazorWASM.SharedUI.Head.Shared.pdb
+C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Shared\obj\Debug\net5.0\BlazorWASM.SharedUI.Head.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Shared\obj\Debug\net5.0\BlazorWASM.SharedUI.Head.Shared.AssemblyInfoInputs.cache
+C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Shared\obj\Debug\net5.0\BlazorWASM.SharedUI.Head.Shared.AssemblyInfo.cs
+C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Shared\obj\Debug\net5.0\BlazorWASM.SharedUI.Head.Shared.csproj.CoreCompileInputs.cache
+C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Shared\obj\Debug\net5.0\BlazorWASM.SharedUI.Head.Shared.dll
+C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Shared\obj\Debug\net5.0\ref\BlazorWASM.SharedUI.Head.Shared.dll
+C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.SharedUI.Head\Shared\obj\Debug\net5.0\BlazorWASM.SharedUI.Head.Shared.pdb
