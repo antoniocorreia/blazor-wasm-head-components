@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.Head\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\anton\Documents\A2\GitHub\blazor-wasm-head-components\BlazorWASM.Head\BlazorWASM.Head\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.Web.Extensions" Path="C:\Users\anton\.nuget\packages\microsoft.aspnetcore.components.web.extensions\5.0.0-preview.8.20414.8\build\..\staticwebassets\" />
+</StaticWebAssets>
